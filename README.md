@@ -25,7 +25,3 @@ algorithme-c/
 gcc -Wall -Wextra -std=c99 -o exo chemin/vers/exercice.c
 ./exo
 ```
-
-## Licence
-
-Distribué sous [licence MIT](./LICENSE).
